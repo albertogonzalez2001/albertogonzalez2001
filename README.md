@@ -5,7 +5,7 @@ Actualmente profundizando en **Java + Spring Boot** y construyendo proyectos rea
 
 ## 🛠️ Tecnologías
 
-**Backend:** Java · Spring Boot · Python  
+**Backend:** Java · Spring Boot · Python · PHP
 **Frontend:** HTML · CSS · JavaScript  
 **Datos:** SQL  
 
