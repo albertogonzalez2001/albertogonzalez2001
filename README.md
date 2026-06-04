@@ -16,7 +16,7 @@ Echa un vistazo a mis repos fijados 👇
 
 ## 📫 Contacto
 
-Abierto a oportunidades laborales — no dudes en escribirme.  
+Abierto a oportunidades laborales | no dudes en escribirme.  
 Linkedin en desarrollo... 🔨
 
 <!--
