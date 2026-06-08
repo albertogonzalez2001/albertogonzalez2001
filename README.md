@@ -9,7 +9,7 @@ Actualmente profundizando en **Java + Spring Boot** y construyendo proyectos rea
 
 **Frontend:** HTML · CSS · JavaScript  
 
-**Datos:** SQL  
+**Datos:** SQL
 
 ## 🚀 En qué estoy trabajando
 
