@@ -11,6 +11,8 @@ Actualmente profundizando en **Java + Spring Boot** y construyendo proyectos rea
 
 **Datos:** SQL
 
+**DevOps:** Git, Docker
+
 ## 🚀 En qué estoy trabajando
 
 Consolidando mis fundamentos en Java/Spring Boot y ampliando mis proyectos personales.
