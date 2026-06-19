@@ -1,6 +1,6 @@
 # Hola, soy Alberto 👋
 
-Desarrollador web graduado en DAW, con enfoque **Fullstack** y especial interés en el backend.
+Desarrollador web junior, con enfoque **Fullstack** y especial interés en el backend.
 Actualmente profundizando en **Java + Spring Boot** y construyendo proyectos reales para afianzar mi stack.
 
 ## 🛠️ Tecnologías
