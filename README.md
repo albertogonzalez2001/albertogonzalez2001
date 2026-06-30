@@ -24,7 +24,7 @@ Echa un vistazo a mis repos fijados 👇
 ## 📫 Contacto
 
 Abierto a oportunidades laborales | no dudes en escribirme.  
-Perfil de Linkedin | https://www.linkedin.com/in/alberto-gonz%C3%A1lez-552784292/
+Perfil de [Linkedin](https://www.linkedin.com/in/alberto-gonz%C3%A1lez-552784292/)
 
 <!--
 **albertogonzalez2001/albertogonzalez2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
