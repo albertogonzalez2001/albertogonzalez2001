@@ -7,7 +7,7 @@ Actualmente profundizando en **Java + Spring Boot** y construyendo proyectos rea
 
 **Backend:** Java · Spring Boot · Python · PHP
 
-**Frontend:** HTML · CSS · JavaScript  
+**Frontend:** HTML · CSS · JavaScript · React
 
 **Datos:** SQL
 
